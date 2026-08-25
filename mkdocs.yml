@@ -1,0 +1,16 @@
+site_name: G4 - Estudos
+site_url: https://unb-mds.github.io/G4-2026-2/
+
+theme:
+  name: material
+
+nav:
+  - Início: index.md
+  - Estudos:
+      - Agentes de IA: Estudos/sprint00/agentes_IA.md
+      - Arquitetura: Estudos/sprint00/arquitetura.md
+      - Cyber Security: Estudos/sprint00/Cyber_Security.md
+      - Docker: Estudos/sprint00/docker.md
+      - Git e GitHub: Estudos/sprint00/estudo_GitGtHub.md
+      - Requisitos de software: Estudos/sprint00/Requisitos_software.md
+      - Scrum: Estudos/sprint00/Scrun.md
