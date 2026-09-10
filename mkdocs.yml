@@ -14,3 +14,6 @@ nav:
       - Git e GitHub: Estudos/sprint00/estudo_GitGtHub.md
       - Requisitos de software: Estudos/sprint00/Requisitos_software.md
       - Scrum: Estudos/sprint00/Scrun.md
+  - Produto:
+      - Personas: produto/personas.md
+      - Backlog do Produto: produto/backlog.md
